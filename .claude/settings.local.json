@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "mcp__claude_ai_Excalidraw_Diagram__read_me",
+      "mcp__claude_ai_Excalidraw_Diagram__create_view"
+    ]
+  }
+}
